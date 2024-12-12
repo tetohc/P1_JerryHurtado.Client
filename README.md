@@ -1,7 +1,7 @@
 # REST-UNED-Cliente
 
 ## Descripción
-Proyecto del curso Programación Avanzada de la UNED para la empresa REST-UNED. Este proyecto implementa un sistema cliente/servidor para la gestión de pedidos de platos en restaurantes, desarrollado en .NET 7. La solución incluye una aplicación cliente, se comunica con el servidor a través del protocolo TCP. La aplicación cliente permite a los usuarios realizar pedidos y conectarse al servidor para verificar su identidad y registrar pedidos.
+Proyecto del curso Programación Avanzada de la universidad para la empresa ficticia REST-UNED. Este proyecto implementa un sistema cliente/servidor para la gestión de pedidos de platos en restaurantes, desarrollado en .NET 7. La solución incluye una aplicación cliente, se comunica con el servidor a través del protocolo TCP. La aplicación cliente permite a los usuarios realizar pedidos y conectarse al servidor para verificar su identidad y registrar pedidos.
 
 ## Características del Proyecto
 - **Desarrollo Orientado a Objetos**: Uso de POO para estructurar las clases de objetos.
