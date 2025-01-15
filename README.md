@@ -1,5 +1,9 @@
 # REST-UNED-Cliente
 
+![preview](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/rest_client_demo.png)
+
+![preview](https://raw.githubusercontent.com/tetohc/MediaResources/refs/heads/main/images/covers/rest_client_demo_1.png)
+
 ## Descripción
 Proyecto del curso Programación Avanzada de la universidad para la empresa ficticia REST-UNED. Este proyecto implementa un sistema cliente/servidor para la gestión de pedidos de platos en restaurantes, desarrollado en .NET 7. La solución incluye una aplicación cliente, se comunica con el servidor a través del protocolo TCP. La aplicación cliente permite a los usuarios realizar pedidos y conectarse al servidor para verificar su identidad y registrar pedidos.
 
